@@ -1,0 +1,24 @@
+body{
+	font-family: times;
+}
+
+.containerd{
+	background-color: black;
+}
+.topbanner{
+	background-color: blue;
+	font-family: times;
+	font-weight: bold;
+	color: white;
+}
+
+.menubar {
+	font-family:cooper;
+	font-weight: bold;
+	font-size: 18px;
+	height: 60px;
+}
+
+.menubar .nav-link{
+	color: white;
+}
